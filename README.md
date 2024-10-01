@@ -51,11 +51,11 @@ cd Enhancing-Control-in-Stable-Diffusion-Through-Example-Based-Fine-Tuning-and-P
 The project generates images based on a list of prompts and avoids generating unwanted elements using negative prompts. Below are input/output image examples.
 
 ### Input Image:
-![Input Image](https://drive.google.com/file/d/1s8Qx1Ez7BEnVhoneQUBPehAn1Bx66Y7W/view?usp=sharing)
+https://drive.google.com/file/d/1s8Qx1Ez7BEnVhoneQUBPehAn1Bx66Y7W/view?usp=sharing
 
 ### Generated Output:
-![Output Image](https://drive.google.com/file/d/1oNxMnbcDcBMcZycMUsN8pgMelcLvlSTm/view?usp=sharing)
-![Output Image](https://drive.google.com/file/d/1E2Ff_tO1s182Mh22AGm84FTxAvmEyyWQ/view?usp=sharing)
+https://drive.google.com/file/d/1oNxMnbcDcBMcZycMUsN8pgMelcLvlSTm/view?usp=sharing
+https://drive.google.com/file/d/1E2Ff_tO1s182Mh22AGm84FTxAvmEyyWQ/view?usp=sharing
 
 
 The project allows you to modify the prompt lists and fine-tuning parameters as needed. Once set, you can run the Python script or notebook to generate images.
